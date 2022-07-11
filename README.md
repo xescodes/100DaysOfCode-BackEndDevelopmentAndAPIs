@@ -29,15 +29,17 @@
 - use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency
 - remove-a-package-from-your-dependencies
 
-
 ## 2: Basic Node and Express
 - 
 - 
+-
 
-## 3: 
+## 3: MongoDB and Mongoose
 - 
+-
+-
 
-## 4: 
+## 4: Back End Development and APIs Projects
 - 
 - 
 - 
