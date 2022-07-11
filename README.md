@@ -8,7 +8,7 @@
 - 
 
 ## Requisitos
--
+- Seguir las lecciones de [`freecodecamp`](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 -
 
 ## Opcional
