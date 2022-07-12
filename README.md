@@ -27,25 +27,25 @@
 3- [`add-keywords-to-your-package-json`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/add-keywords-to-your-package-json)  
         *youtube
             - [`Add Keywords to Your package.json - Managing Packages with Npm - Free Code Camp`](https://www.youtube.com/watch?v=LSzVQz28UnE&list=PL3vpzVxKa3PgP4ATc1xKzVMAVuftZ64-e&index=4)  
-4- [`add-a-license-to-your-package-json`]  
+4- [`add-a-license-to-your-package-json`](https://www.youtube.com/watch?v=fl_aMw1aw7k&list=PL3vpzVxKa3PgP4ATc1xKzVMAVuftZ64-e&index=4)  
         *youtube
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-5- [`add-a-version-to-your-package-json`]  
+5- [`add-a-version-to-your-package-json`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/add-a-version-to-your-package-json)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-6- [`expand-your-project-with-external-packages-from-npm`]  
+6- [`expand-your-project-with-external-packages-from-npm`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-7- [`manage-npm-dependencies-by-understanding-semantic-versioning`]  
+7- [`manage-npm-dependencies-by-understanding-semantic-versioning`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-8- [`use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency`]  
+8- [`use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-9- [`use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency`]  
+9- [`use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
-10- [`remove-a-package-from-your-dependencies`]  
+10- [`remove-a-package-from-your-dependencies`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/remove-a-package-from-your-dependencies)  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
 
