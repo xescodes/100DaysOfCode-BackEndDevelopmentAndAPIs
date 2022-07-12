@@ -18,8 +18,8 @@
 # Fases (Courses)
 
 ## 1: Managing Packages with NPM
-1- [`how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)  
-        *youtube:
+1- [`how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)
+>*youtube:
             [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
 2- [`add-a-description-to-your-package-json`](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/add-a-description-to-your-package-json)  
         *youtube:
