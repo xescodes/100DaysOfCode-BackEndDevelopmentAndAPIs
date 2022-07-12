@@ -38,7 +38,7 @@
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
 7- [`manage-npm-dependencies-by-understanding-semantic-versioning`]  
         *youtube:
-            - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)
+            - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
 8- [`use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency`]  
         *youtube:
             - [`Introduction to the Managing Packages with npm - Free Code Camp`](https://www.youtube.com/watch?v=LJqHGn2sOYQ&t=867s)  
