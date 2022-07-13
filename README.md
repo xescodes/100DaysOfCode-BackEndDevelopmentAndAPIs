@@ -3,8 +3,10 @@
 #
 ## [Presentación](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
-- El reto constará de 100 códigos relacionados con el desarrollo backend y apis. 
-- Esos códigos de comparten en por twitter con el hashtag [`#100DaysOfCode`](#100DaysOfCode)
+- La propuesta surgió de [`Alexander Kallaway`](https://github.com/kallaway)
+- El reto consta de 100 códigos relacionados con el tema escogido: desarrollo backend y apis.
+- Para facilitar el diseño del recorrido se ha aprovechado una ruta de [`freecodecamp.org`] 
+- Las líneas de esos códigos deben compartirse por twitter con el hashtag [`#100DaysOfCode`](#100DaysOfCode) para crear constancia en una nueva rutina de trabajo
 - 
 
 ## Requisitos
@@ -17,6 +19,9 @@
 ## Fuentes
 - [`Useful Programmer`](https://www.youtube.com/c/UsefulProgrammer)
 - [`Ganesh H`](https://www.youtube.com/c/GaneshH123)
+- [`Programa especializado: Full Stack Web Development en Español`](https://www.coursera.org/specializations/fullstack-web-development-espanol) en Coursera
+- [`Curso profesional de Backend`](https://codigofacilito.com/cursos/backend-profesional) por Uriel Hernández
+- [`The complete 2022 web development`](https://www.udemy.com/course/the-complete-web-development-bootcamp/) por Angela Yu
 
 # Fases (Courses)
 
