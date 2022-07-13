@@ -34,9 +34,9 @@
 ## 2: Basic Node and Express
 | freecodecamp | youtube |
 | ----------- | ----------- |
-| 1- [`Meet the Node console`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/meet-the-node-console) | [``]() |
-| 2- [`Start a Working Express Server`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/start-a-working-express-server) | [``]() |
-| 3- [`Serve an HTML File`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-an-html-file) | [``]() |
+| 1- [`Meet the Node console`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/meet-the-node-console) | [`Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency - Managing Packages`](https://www.youtube.com/watch?v=W_roUJSnYtc&list=PL3vpzVxKa3PgP4ATc1xKzVMAVuftZ64-e&index=11) |
+| 2- [`Start a Working Express Server`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/start-a-working-express-server) | [`Use the Caret Character to Use the Latest Minor Version of a Dependency - Managing Packages with Npm`](https://www.youtube.com/watch?v=_YDOmLF2wkM&list=PL3vpzVxKa3PgP4ATc1xKzVMAVuftZ64-e&index=12) |
+| 3- [`Serve an HTML File`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-an-html-file) | [`Use the Caret Character to Use the Latest Minor Version of a Dependency - Managing Packages with Npm`](https://www.youtube.com/watch?v=_YDOmLF2wkM&list=PL3vpzVxKa3PgP4ATc1xKzVMAVuftZ64-e&index=13) |
 | 4- [`Serve Static Assets`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-static-assets) | [``]() |
 | 5- [`Serve JSON on a Specific Route`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-json-on-a-specific-route) | [``]() |
 | 6- [`Use the .env File`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/use-the--env-file) | [``]() |
