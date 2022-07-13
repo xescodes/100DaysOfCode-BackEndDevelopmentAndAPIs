@@ -11,9 +11,12 @@
 - Seguir las lecciones de [`freecodecamp`](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 -
 
-## Opcional
-- 
-- 
+## Otros
+- Se utilizarán materiales usados en clase y en tutoriales disponibles en youtube (las fuentes se muestran a continuación)
+
+## Fuentes
+- [`Useful Programmer`](https://www.youtube.com/c/UsefulProgrammer)
+- [`Ganesh H`](https://www.youtube.com/c/GaneshH123)
 
 # Fases (Courses)
 
