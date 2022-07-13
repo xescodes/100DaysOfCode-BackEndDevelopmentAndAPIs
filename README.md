@@ -4,7 +4,7 @@
 ## [Presentación](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 - La propuesta surgió de [`Alexander Kallaway`](https://github.com/kallaway)
-- El reto consta de 100 códigos relacionados con el tema escogido: desarrollo backend y apis
+- El reto consta de 100 códigos relacionados con el tema escogido, en este caso: desarrollo backend y apis
 - Para facilitar el diseño del recorrido se ha aprovechado una ruta de [`freecodecamp.org`](https://www.freecodecamp.org/) 
 - Las líneas de esos códigos deben compartirse por twitter con el hashtag [`#100DaysOfCode`](#100DaysOfCode) para crear constancia en una nueva rutina de trabajo
 - 
