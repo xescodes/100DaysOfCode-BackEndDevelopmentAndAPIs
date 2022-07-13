@@ -50,12 +50,12 @@
 ## 3: MongoDB and Mongoose
 | freecodecamp | youtube |
 | ----------- | ----------- |
-| 1- [``]() | [``]() |
-| 2- [``]() | [``]() |
-| 3- [``]() | [``]() |
-| 4- [``]() | [``]() |
-| 5- [``]() | [``]() |
-| 6- [``]() | [``]() |
+| 1- [`Install and Set Up Mongoose`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/install-and-set-up-mongoose) | [``]() |
+| 2- [`Create a Model`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-a-model) | [``]() |
+| 3- [`Create and Save a Record of a Model`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-and-save-a-record-of-a-model) | [``]() |
+| 4- [`Create Many Records with model.create()`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create) | [``]() |
+| 5- [`Use model.find() to Search Your Database`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/use-model-find-to-search-your-database) | [``]() |
+| 6- [`Use model.findOne() to Return a Single Matching Document from Your Database`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/use-model-findone-to-return-a-single-matching-document-from-your-database) | [``]() |
 | 7- [``]() | [``]() |
 | 8- [``]() | [``]() |
 | 9- [``]() | [``]() |
