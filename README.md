@@ -56,12 +56,12 @@
 | 4- [`Create Many Records with model.create()`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/create-many-records-with-model-create) | [``]() |
 | 5- [`Use model.find() to Search Your Database`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/use-model-find-to-search-your-database) | [``]() |
 | 6- [`Use model.findOne() to Return a Single Matching Document from Your Database`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/use-model-findone-to-return-a-single-matching-document-from-your-database) | [``]() |
-| 7- [``]() | [``]() |
-| 8- [``]() | [``]() |
-| 9- [``]() | [``]() |
-| 10- [``]() | [``]() |
-| 11- [``]() | [``]() |
-| 12- [``]() | [``]() |
+| 7- [`Use model.findById() to Search Your Database By _id`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/use-model-findbyid-to-search-your-database-by-id) | [``]() |
+| 8- [`Perform Classic Updates by Running Find, Edit, then Save`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/perform-classic-updates-by-running-find-edit-then-save) | [``]() |
+| 9- [`Perform New Updates on a Document Using model.findOneAndUpdate()`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/perform-new-updates-on-a-document-using-model-findoneandupdate) | [``]() |
+| 10- [`Delete One Document Using model.findByIdAndRemove`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/delete-one-document-using-model-findbyidandremove) | [``]() |
+| 11- [`Delete Many Documents with model.remove()`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/delete-many-documents-with-model-remove) | [``]() |
+| 12- [`Chain Search Query Helpers to Narrow Search Results`](https://www.freecodecamp.org/learn/back-end-development-and-apis/mongodb-and-mongoose/chain-search-query-helpers-to-narrow-search-results) | [``]() |
 
 ## 4: Back End Development and APIs Projects
 | freecodecamp | youtube |
