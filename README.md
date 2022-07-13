@@ -34,18 +34,18 @@
 ## 2: Basic Node and Express
 | freecodecamp | youtube |
 | ----------- | ----------- |
-| 1- [``]() | [``]() |
-| 2- [``]() | [``]() |
-| 3- [``]() | [``]() |
-| 4- [``]() | [``]() |
-| 5- [``]() | [``]() |
-| 6- [``]() | [``]() |
-| 7- [``]() | [``]() |
-| 8- [``]() | [``]() |
-| 9- [``]() | [``]() |
-| 10- [``]() | [``]() |
-| 11- [``]() | [``]() |
-| 12- [``]() | [``]() |
+| 1- [`Meet the Node console`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/meet-the-node-console) | [``]() |
+| 2- [`Start a Working Express Server`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/start-a-working-express-server) | [``]() |
+| 3- [`Serve an HTML File`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-an-html-file) | [``]() |
+| 4- [`Serve Static Assets`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-static-assets) | [``]() |
+| 5- [`Serve JSON on a Specific Route`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/serve-json-on-a-specific-route) | [``]() |
+| 6- [`Use the .env File`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/use-the--env-file) | [``]() |
+| 7- [`Implement a Root-Level Request Logger Middleware`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/implement-a-root-level-request-logger-middleware) | [``]() |
+| 8- [`Chain Middleware to Create a Time Server`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/chain-middleware-to-create-a-time-server) | [``]() |
+| 9- [`Get Route Parameter Input from the Client`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/get-route-parameter-input-from-the-client) | [``]() |
+| 10- [`Get Query Parameter Input from the Client`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/get-query-parameter-input-from-the-client) | [``]() |
+| 11- [`Use body-parser to Parse POST Requests`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/use-body-parser-to-parse-post-requests) | [``]() |
+| 12- [`Get Data from POST Requests`](https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/get-data-from-post-requests) | [``]() |
 
 ## 3: MongoDB and Mongoose
 | freecodecamp | youtube |
